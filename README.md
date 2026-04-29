@@ -3,7 +3,6 @@
 <p align="center">
   <b>Software Engineer</b>
 </p>
-
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -21,6 +20,8 @@
     </tr>
   </table>
 </div>
+
+</br>
 
 <h3 align="center">Tech Stack</h3>
 
