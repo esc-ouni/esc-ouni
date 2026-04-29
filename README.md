@@ -1,4 +1,4 @@
-<h1 align="center">esc-ouni</h1>
+<h1 align="center">Ibrahim Douni</h1>
 
 <p align="center">
   <b>Software Engineer</b>
