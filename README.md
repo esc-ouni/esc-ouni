@@ -5,18 +5,18 @@
 </p>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=esc-ouni&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="400px" alt="GitHub Stats" />
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="50%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=esc-ouni&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" style="width: 100%;" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esc-ouni&layout=compact&theme=transparent&hide_border=true" width="400px" alt="Top Languages" />
+      <td width="50%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esc-ouni&layout=compact&theme=transparent&hide_border=true" style="width: 100%;" alt="Top Languages" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=esc-ouni&theme=transparent&hide_border=true" width="800px" alt="GitHub Streak" />
+    <tr style="border: none;">
+      <td colspan="2" style="border: none;">
+        <img src="https://streak-stats.demolab.com/?user=esc-ouni&theme=transparent&hide_border=true" style="width: 100%;" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
