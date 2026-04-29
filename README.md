@@ -5,12 +5,21 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esc-ouni&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esc-ouni&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=esc-ouni&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=esc-ouni&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="400px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esc-ouni&layout=compact&theme=transparent&hide_border=true" width="400px" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com/?user=esc-ouni&theme=transparent&hide_border=true" width="800px" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
