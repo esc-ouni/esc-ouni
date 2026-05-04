@@ -5,12 +5,12 @@
 </p>
 
 <div align="center">
-  <img src="https://gh-stats-green.vercel.app/api?username=esc-ouni&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://gh-stats-green.vercel.app/api/top-langs/?username=esc-ouni&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://gh-stats-green.vercel.app/api?username=esc-ouni&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&cache=none" alt="GitHub Stats" />
+  <img src="https://gh-stats-green.vercel.app/api/top-langs/?username=esc-ouni&layout=compact&theme=transparent&hide_border=true&cache=none" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=esc-ouni&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=esc-ouni&theme=transparent&hide_border=true&cache=none" alt="GitHub Streak" />
 </div>
 
 <br>
