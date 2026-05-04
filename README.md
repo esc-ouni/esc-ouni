@@ -1,8 +1,8 @@
 <h1 align="center">Ibrahim Douni</h1>
 
-<p align="center">
-  <b>Software Engineer</b>
-</p>
+<!-- <p align="center">
+  <b>SWE</b>
+</p> -->
 
 <div align="center">
   <img src="https://gh-stats-green.vercel.app/api?username=esc-ouni&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&cache=none" alt="GitHub Stats" />
