@@ -1,7 +1,7 @@
 <h1 align="center">Ibrahim Douni</h1>
 
 <!-- <p align="center">
-  <b>SWE</b>
+  <b>SWE - Buttons Clicker</b>
 </p> -->
 
 <div align="center">
