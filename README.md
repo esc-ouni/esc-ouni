@@ -19,7 +19,7 @@
 </div>
 
 
-<br>
+<!-- <br>
 
 <h3 align="center">Tech Stack</h3>
 
@@ -31,4 +31,4 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</div>
+</div> -->
