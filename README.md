@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esc-ouni&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&cache=none" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esc-ouni&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&cache=none" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esc-ouni&layout=compact&theme=transparent&hide_border=true&cache=none" alt="Top Languages" />
 </div>
 <div align="center">
